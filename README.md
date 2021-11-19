@@ -1,13 +1,23 @@
 # PIcalculate
-A Pi calculate project from abeginner
+A Pi calculate project from a beginner
 Environment:JDK18;
 Language:Java;
+
+# Latest version:
+PiCal 
+new functions:1.new GUI for better interaction
+              2.add output functions getPi(),getTime()
+              3.object-oriented sourcecode
+
+
 Updates log:
 --------------
 ver1:PiTest
 Using the riemann's zeta function to calculate Pi,and design a simple loop to realize it
 Drawbacks:1.convergence is very bad;
           2.use "double" as number code,easy to overflow.
+          
+Notice:This version has been deleted.
           
 --------------
 ver2:PiTest2
@@ -25,3 +35,7 @@ ver4:PiTest4
 updates new functions:1.user could choose to reserve how many decimals;
                       2.set a timer to time the calculation;
                       3.using array to simplify the code.
+                      
+--------------
+ver5:PiCal
+updates new GUI,dividing the sourcecode for object-oriented.
